@@ -1,0 +1,55 @@
+TERAINCURSIONES LOCALES — FORMATO 1
+
+Ubicación: PokemonViolet_data/mods/VioletEvents/base.json.
+Codificación: UTF-8; se admiten ñ, tildes y archivos con BOM.
+Solo base.json se lee al iniciar el juego; la antigua carpeta eventos ya no se lee. Reinicia después de editarlos.
+La fecha de referencia es la fecha local del equipo al iniciar el juego.
+Requiere Online local = Sí. Los encuentros mantienen el modo solitario y LAN.
+
+base.json contiene todos los encuentros base admitidos de 1, 2, 3 y 5 estrellas.
+Para añadir un evento, copia su objeto de evento.json.ejemplo a incursiones en base.json.
+No cambies la extensión de LEEME.txt ni cargues archivos de código ejecutable.
+
+Estructura del documento:
+  version: 1
+  nombre: descripción opcional del evento
+  incursiones: lista de objetos con estos campos:
+
+  encuentro_id: identificador de la tabla de incursiones del juego.
+    NO es el número de Pokédex. Usa un ID de base.json y sus mismas estrellas.
+    Conserva el Pokémon, forma, nivel, combate y recompensas del encuentro nativo.
+  estrellas: 1, 2, 3, 5 o 7 (con perfil imbatible instalado).
+  teratipo: -1 para aleatorio, o un número de 0 a 17. Es opcional (-1 por defecto).
+    0 Normal, 1 Lucha, 2 Volador, 3 Veneno, 4 Tierra, 5 Roca, 6 Bicho,
+    7 Fantasma, 8 Acero, 9 Fuego, 10 Agua, 11 Planta, 12 Eléctrico,
+    13 Psíquico, 14 Hielo, 15 Dragón, 16 Siniestro, 17 Hada.
+  prioridad: para incursiones normales, entero de 1 a 1000000 (peso del sorteo).
+    Cuanto mayor, mayor probabilidad. La prioridad 0 se reserva a eventos y
+    siete estrellas: aparecen primero, sin sorteo, mientras estén vigentes.
+  evento: true identifica un evento de 1, 2, 3 o 5 estrellas y permite prioridad 0.
+    Las siete estrellas siempre son eventos y requieren prioridad 0.
+  fecha_inicio: DD/MM/AAAA, inclusive. Base: 01/01/2000.
+  fecha_fin: DD/MM/AAAA, inclusive. Base: 01/01/3000.
+
+Sin eventos prioritarios se sortean dos encuentros por nivel: ocho tarjetas.
+Con eventos de prioridad 0, estos ocupan primero las tarjetas; las normales
+completan los espacios restantes hasta ocho. No se repiten encuentros.
+Los eventos vigentes se combinan con las incursiones normales del mismo archivo. Los de prioridad 0 se muestran
+antes que las incursiones normales y no se duplican en el sorteo posterior.
+Entre duplicados normales gana la prioridad mayor; en empate gana el último leído
+(por orden dentro del archivo).
+Al finalizar un evento, vuelve a usarse la configuración base de ese encuentro.
+Los archivos/filas inválidos y los encuentros desconocidos se omiten.
+Si faltan dos encuentros válidos para un nivel, se completa el catálogo de ese
+nivel con los encuentros base internos para mantener el tablero utilizable.
+Si no hay archivos, se conservan las ocho incursiones aleatorias originales.
+
+Límites: un archivo base.json, 1 MiB y 512 filas vigentes en total.
+Los errores de lectura/validación se registran en el log del port.
+Perfil imbatible instalado: Charizard, encuentro_id 2022120201, 7 estrellas,
+teratipo 15 (Dragón), nivel 100. Incluye su perfil nativo de combate y recompensas.
+El ejemplo tiene inicio y fin 28/10/2026; solo está vigente ese día.
+Otros imbatibles necesitan su perfil de combate instalado, no basta cambiar el ID.
+No se admiten 6 estrellas ni Pokémon o movimientos arbitrarios desde este JSON.
+Fuente del perfil: https://github.com/projectpokemon/EventsGallery/tree/master/Released/Gen%209/SV/Raid%20Events/002%20Charizard%20the%20Unrivaled
+El anfitrión define el encuentro LAN; esta actualización no modifica el protocolo.
