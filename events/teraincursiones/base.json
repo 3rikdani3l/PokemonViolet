@@ -1,0 +1,2224 @@
+{
+  "version": 1,
+  "nombre": "Teraincursiones base",
+  "incursiones": [
+    {
+      "nombre": "Charizard imbatible",
+      "encuentro_id": 2022120201,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 15,
+      "prioridad": 0,
+      "fecha_inicio": "28/10/2026",
+      "fecha_fin": "28/10/2026"
+    },
+    {
+      "encuentro_id": 1001,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1002,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1003,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1004,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1005,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1006,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1007,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1008,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1010,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1011,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1012,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1013,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1014,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1015,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1016,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1017,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1018,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1019,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1020,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1021,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1022,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1023,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1024,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1025,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1026,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1027,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1028,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1029,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1031,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1032,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1033,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1034,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1035,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1036,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1037,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1038,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1039,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1040,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1041,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1042,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1043,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1044,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1045,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1046,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1047,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1048,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1049,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1050,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1051,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1052,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1053,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1054,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1055,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1056,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1057,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1058,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1059,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 1060,
+      "estrellas": 1,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2001,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2002,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2003,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2004,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2005,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2006,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2007,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2008,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2009,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2011,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2012,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2013,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2014,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2015,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2016,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2017,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2018,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2019,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2020,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2021,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2022,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2023,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2024,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2025,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2026,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2027,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2029,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2031,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2032,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2033,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2034,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2035,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2036,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2037,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2038,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2040,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2041,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2042,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2043,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2044,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2045,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2046,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2047,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2048,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2050,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2051,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2052,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2053,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2054,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2055,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2056,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2057,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 2058,
+      "estrellas": 2,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3001,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3002,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3003,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3004,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3005,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3006,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3007,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3008,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3009,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3010,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3011,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3012,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3013,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3014,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3015,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3016,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3017,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3018,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3020,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3021,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3022,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3023,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3024,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3026,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3027,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3029,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3030,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3031,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3032,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3033,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3034,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3035,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3036,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3037,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3038,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3039,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3040,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3041,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3043,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3044,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3045,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3046,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3047,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3048,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3049,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3050,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3051,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3052,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3053,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3055,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3056,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3057,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3058,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3059,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3060,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3061,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3062,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3063,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3064,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3065,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3066,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3067,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3068,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3069,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3070,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3071,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3072,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3073,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3074,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3075,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3076,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3078,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3079,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 3080,
+      "estrellas": 3,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5001,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5002,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5003,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5004,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5005,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5006,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5007,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5008,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5009,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5010,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5011,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5012,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5013,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5014,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5015,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5017,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5018,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5019,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5020,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5021,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5022,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5023,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5024,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5025,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5026,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5027,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5029,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5030,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5031,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5032,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5033,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5034,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5035,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5036,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5037,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5038,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5039,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5040,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5041,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5042,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5043,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5044,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5045,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5046,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5048,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5049,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5050,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5052,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5053,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5054,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5055,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5056,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5057,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5058,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5060,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5061,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5062,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5063,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5064,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5065,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5066,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5067,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5068,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5069,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5070,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5071,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5072,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5073,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5074,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5075,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5076,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5077,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5078,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5079,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5080,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5081,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5082,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5083,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5085,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5086,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5087,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5089,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5090,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5091,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5092,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5093,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5094,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5096,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5097,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5098,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    },
+    {
+      "encuentro_id": 5099,
+      "estrellas": 5,
+      "teratipo": -1,
+      "prioridad": 1,
+      "fecha_inicio": "01/01/2000",
+      "fecha_fin": "01/01/3000"
+    }
+  ]
+}
