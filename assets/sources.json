@@ -1,0 +1,531 @@
+{
+  "assets": [
+    {
+      "name": "logo-violet.webp",
+      "url": "https://scarletviolet.pokemon.com/_images/global/en/pokemon-violet-logo-medium-up.webp",
+      "source_page": "https://scarletviolet.pokemon.com/es-mx/",
+      "size": [
+        331,
+        190
+      ],
+      "mode": "RGBA",
+      "bytes": 31242,
+      "credit": "The Pokémon Company International / Nintendo / Creatures Inc. / GAME FREAK inc.",
+      "usage_terms_url": "https://www.pokemon.com/el/informacion-legal/",
+      "license_note": "Recurso oficial del sitio Pokémon Scarlet/Violet. Protegido por derechos de autor; no se afirma una licencia abierta."
+    },
+    {
+      "name": "sprigatito.webp",
+      "url": "https://scarletviolet.pokemon.com/_images/pokemon/sprigatito/pokemon-sprigatito.webp",
+      "source_page": "https://scarletviolet.pokemon.com/es-mx/",
+      "size": [
+        448,
+        448
+      ],
+      "mode": "RGBA",
+      "bytes": 19244,
+      "credit": "The Pokémon Company International / Nintendo / Creatures Inc. / GAME FREAK inc.",
+      "usage_terms_url": "https://www.pokemon.com/el/informacion-legal/",
+      "license_note": "Recurso oficial del sitio Pokémon Scarlet/Violet. Protegido por derechos de autor; no se afirma una licencia abierta."
+    },
+    {
+      "name": "fuecoco.webp",
+      "url": "https://scarletviolet.pokemon.com/_images/pokemon/fuecoco/pokemon-fuecoco.webp",
+      "source_page": "https://scarletviolet.pokemon.com/es-mx/",
+      "size": [
+        448,
+        448
+      ],
+      "mode": "RGBA",
+      "bytes": 16590,
+      "credit": "The Pokémon Company International / Nintendo / Creatures Inc. / GAME FREAK inc.",
+      "usage_terms_url": "https://www.pokemon.com/el/informacion-legal/",
+      "license_note": "Recurso oficial del sitio Pokémon Scarlet/Violet. Protegido por derechos de autor; no se afirma una licencia abierta."
+    },
+    {
+      "name": "quaxly.webp",
+      "url": "https://scarletviolet.pokemon.com/_images/pokemon/quaxly/pokemon-quaxly.webp",
+      "source_page": "https://scarletviolet.pokemon.com/es-mx/",
+      "size": [
+        448,
+        448
+      ],
+      "mode": "RGBA",
+      "bytes": 16018,
+      "credit": "The Pokémon Company International / Nintendo / Creatures Inc. / GAME FREAK inc.",
+      "usage_terms_url": "https://www.pokemon.com/el/informacion-legal/",
+      "license_note": "Recurso oficial del sitio Pokémon Scarlet/Violet. Protegido por derechos de autor; no se afirma una licencia abierta."
+    },
+    {
+      "name": "paldea.jpg",
+      "url": "https://scarletviolet.pokemon.com/_images/home/world-evolved-background-large-up.jpg",
+      "source_page": "https://scarletviolet.pokemon.com/es-mx/",
+      "size": [
+        1440,
+        810
+      ],
+      "mode": "RGB",
+      "bytes": 147550,
+      "credit": "The Pokémon Company International / Nintendo / Creatures Inc. / GAME FREAK inc.",
+      "usage_terms_url": "https://www.pokemon.com/el/informacion-legal/",
+      "license_note": "Recurso oficial del sitio Pokémon Scarlet/Violet. Protegido por derechos de autor; no se afirma una licencia abierta."
+    },
+    {
+      "name": "miraidon.png",
+      "url": "https://press.pokemon.com/en/Files/Download?file=%2Fblob%2FPokemonAmerica%2F2022%2F05%2F312255-c7945c45%2FPokemon_SV_Miraidon_Key_Art.png&enc=90D82E4E9C1092B70B7C39193AF6B8BA&fileGuid=9e034784-33e0-d6d3-9300-77f7af83c317&size=825822&useCloud=False",
+      "source_page": "https://press.pokemon.com/en-AU/RELEASE-DATE-REVEALED-FOR-POKEMON-SCARLET-AND-POKEMON-VIOLET",
+      "size": [
+        2856,
+        3810
+      ],
+      "mode": "P",
+      "bytes": 825822,
+      "credit": "The Pokémon Company International / Nintendo / Creatures Inc. / GAME FREAK inc.",
+      "usage_terms_url": "https://press.pokemon.com/Assets-Use-Terms",
+      "license_note": "Material oficial de prensa. Licencia limitada para uso editorial o informativo no comercial; sin modificación ni implicación de patrocinio o afiliación. No es una licencia abierta. Consultar los términos completos, incluidos los límites de prominencia de marca."
+    },
+    {
+      "name": "terastal-art.jpg",
+      "url": "https://press.pokemon.com/en/Files/Download?file=%2Fblob%2FPokemonAmerica%2F2022%2F08%2F031310-0a317441%2FPokemon_SV_Terastal_Artwork.jpg&enc=DF994F472227137229C63BB5DDD0B3D4&fileGuid=900db5d5-f007-3308-4b32-94683c5a3b5d&size=1084732&useCloud=False",
+      "source_page": "https://press.pokemon.com/es-MX/NEW-DETAILS-REVEALED-FOR-POKEMON-SCARLET-AND-POKEMON-VIOLET-INCLUDING-",
+      "size": [
+        4093,
+        2893
+      ],
+      "mode": "RGB",
+      "bytes": 1084732,
+      "credit": "The Pokémon Company International / Nintendo / Creatures Inc. / GAME FREAK inc.",
+      "usage_terms_url": "https://press.pokemon.com/Assets-Use-Terms",
+      "license_note": "Material oficial de prensa. Licencia limitada para uso editorial o informativo no comercial; sin modificación ni implicación de patrocinio o afiliación. No es una licencia abierta. Consultar los términos completos, incluidos los límites de prominencia de marca."
+    },
+    {
+      "name": "miraidon-screenshot.jpg",
+      "url": "https://press.pokemon.com/en/Files/Download?file=%2Fblob%2FPokemonAmerica%2F2022%2F12%2F052034-81e92f31%2FPokemon_SV_Miraidon_Screenshot_1.jpg&enc=7C27D43C2470CCE9CC119217970F08D1&fileGuid=5f2c8001-32ba-86a4-06cd-24a12d0c87b9&size=147593&useCloud=False",
+      "source_page": "https://press.pokemon.com/es-MX/MEDIA-ALERT-DETAILS-REVEALED-ABOUT-THE-LEGENDARY-POKEMON-KORAIDON-AND-",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB",
+      "bytes": 147593,
+      "credit": "The Pokémon Company International / Nintendo / Creatures Inc. / GAME FREAK inc.",
+      "usage_terms_url": "https://press.pokemon.com/Assets-Use-Terms",
+      "license_note": "Material oficial de prensa. Licencia limitada para uso editorial o informativo no comercial; sin modificación ni implicación de patrocinio o afiliación. No es una licencia abierta. Consultar los términos completos, incluidos los límites de prominencia de marca."
+    },
+    {
+      "name": "exploration.jpg",
+      "url": "https://press.pokemon.com/en/Files/Download?file=%2Fblob%2FPokemonAmerica%2F2022%2F08%2F031312-2bcb92fe%2FPokemon_SV_Screenshot_11.jpg&enc=9DA4BC4C64E051FEEA9F918552C0C387&fileGuid=ca89016b-687f-d263-54ba-2566e7a88d8d&size=256424&useCloud=False",
+      "source_page": "https://press.pokemon.com/es-MX/NEW-DETAILS-REVEALED-FOR-POKEMON-SCARLET-AND-POKEMON-VIOLET-INCLUDING-",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB",
+      "bytes": 256424,
+      "credit": "The Pokémon Company International / Nintendo / Creatures Inc. / GAME FREAK inc.",
+      "usage_terms_url": "https://press.pokemon.com/Assets-Use-Terms",
+      "license_note": "Material oficial de prensa. Licencia limitada para uso editorial o informativo no comercial; sin modificación ni implicación de patrocinio o afiliación. No es una licencia abierta. Consultar los términos completos, incluidos los límites de prominencia de marca."
+    },
+    {
+      "name": "terastal.jpg",
+      "url": "https://press.pokemon.com/en/Files/Download?file=%2Fblob%2FPokemonAmerica%2F2022%2F08%2F031312-2bcb92fe%2FPokemon_SV_Screenshot_14.jpg&enc=D083FC743F3EE1D51893365FD9627D2C&fileGuid=7bd675e5-d937-74d2-fddd-3e9bd17c5abd&size=188671&useCloud=False",
+      "source_page": "https://press.pokemon.com/es-MX/NEW-DETAILS-REVEALED-FOR-POKEMON-SCARLET-AND-POKEMON-VIOLET-INCLUDING-",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB",
+      "bytes": 188671,
+      "credit": "The Pokémon Company International / Nintendo / Creatures Inc. / GAME FREAK inc.",
+      "usage_terms_url": "https://press.pokemon.com/Assets-Use-Terms",
+      "license_note": "Material oficial de prensa. Licencia limitada para uso editorial o informativo no comercial; sin modificación ni implicación de patrocinio o afiliación. No es una licencia abierta. Consultar los términos completos, incluidos los límites de prominencia de marca."
+    },
+    {
+      "name": "install-extract-exefs-romfs.png",
+      "source_type": "user_upload",
+      "source_filename": "image(20261029-045417).png",
+      "size": [
+        1283,
+        725
+      ],
+      "mode": "RGBA",
+      "bytes": 67294,
+      "credit": "Captura proporcionada por el responsable del proyecto para la guía de instalación.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "install-extracted-release.png",
+      "source_type": "user_upload",
+      "source_filename": "image(20261029-045559).png",
+      "size": [
+        949,
+        608
+      ],
+      "mode": "RGB",
+      "bytes": 112105,
+      "credit": "Captura proporcionada por el responsable del proyecto para la guía de instalación.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "install-launcher-menu.png",
+      "source_type": "user_upload",
+      "source_filename": "19(1).png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 2229627,
+      "credit": "Captura proporcionada por el responsable del proyecto para la guía de instalación.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "install-select-folders.png",
+      "source_type": "user_upload",
+      "source_filename": "20(1).png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 18098,
+      "credit": "Captura proporcionada por el responsable del proyecto para la guía de instalación.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "install-play-ready.png",
+      "source_type": "user_upload",
+      "source_filename": "16(1).png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 2229713,
+      "credit": "Captura proporcionada por el responsable del proyecto para la guía de instalación.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "install-graphics-settings.png",
+      "source_type": "user_upload",
+      "source_filename": "17(1).png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 30066,
+      "credit": "Captura proporcionada por el responsable del proyecto para la guía de instalación.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "install-launcher-settings.png",
+      "source_type": "user_upload",
+      "source_filename": "18(1).png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 23714,
+      "credit": "Captura proporcionada por el responsable del proyecto para la guía de instalación.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "install-first-compilation.png",
+      "source_type": "user_upload",
+      "source_filename": "21(1).png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 13351,
+      "credit": "Captura proporcionada por el responsable del proyecto para la guía de instalación.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "install-game-language.png",
+      "source_type": "user_upload",
+      "source_filename": "22.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 141949,
+      "credit": "Captura proporcionada por el responsable del proyecto para la guía de instalación.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "install-character-appearance.png",
+      "source_type": "user_upload",
+      "source_filename": "23.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 561905,
+      "credit": "Captura proporcionada por el responsable del proyecto para la guía de instalación.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "install-character-confirmation.png",
+      "source_type": "user_upload",
+      "source_filename": "24.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 747083,
+      "credit": "Captura proporcionada por el responsable del proyecto para la guía de instalación.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "install-extras-inventory.png",
+      "source_type": "user_upload",
+      "source_filename": "25.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 80722,
+      "credit": "Captura proporcionada por el responsable del proyecto para la guía de instalación.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "install-extras-quantity.png",
+      "source_type": "user_upload",
+      "source_filename": "26.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 54791,
+      "credit": "Captura proporcionada por el responsable del proyecto para la guía de instalación.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "install-extras-pokedex.png",
+      "source_type": "user_upload",
+      "source_filename": "27.png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 78340,
+      "credit": "Captura proporcionada por el responsable del proyecto para la guía de instalación.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "demo-title-exit.png",
+      "source_type": "user_upload",
+      "source_filename": "image(20261029-052717).png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 3158336,
+      "credit": "Captura proporcionada por el responsable del proyecto para la sección Demo.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "demo-menu-exit.png",
+      "source_type": "user_upload",
+      "source_filename": "14(1).png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 3790760,
+      "credit": "Captura proporcionada por el responsable del proyecto para la sección Demo.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "demo-game-language.png",
+      "source_type": "user_upload",
+      "source_filename": "15(1).png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 2580850,
+      "credit": "Captura proporcionada por el responsable del proyecto para la sección Demo.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "demo-trade-connect.png",
+      "source_type": "user_upload",
+      "source_filename": "4(1).png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 1641316,
+      "credit": "Captura proporcionada por el responsable del proyecto para la sección Demo.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "demo-trade-confirm.png",
+      "source_type": "user_upload",
+      "source_filename": "5(1).png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 2007590,
+      "credit": "Captura proporcionada por el responsable del proyecto para la sección Demo.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "demo-trade-animation.png",
+      "source_type": "user_upload",
+      "source_filename": "6(1).png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 2735552,
+      "credit": "Captura proporcionada por el responsable del proyecto para la sección Demo.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "demo-raid-create.png",
+      "source_type": "user_upload",
+      "source_filename": "7(1).png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 2291960,
+      "credit": "Captura proporcionada por el responsable del proyecto para la sección Demo.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "demo-raid-code.png",
+      "source_type": "user_upload",
+      "source_filename": "8(1).png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 2091687,
+      "credit": "Captura proporcionada por el responsable del proyecto para la sección Demo.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "demo-raid-group.png",
+      "source_type": "user_upload",
+      "source_filename": "9(1).png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 2398422,
+      "credit": "Captura proporcionada por el responsable del proyecto para la sección Demo.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "demo-raid-battle.png",
+      "source_type": "user_upload",
+      "source_filename": "10(1).png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 3123878,
+      "credit": "Captura proporcionada por el responsable del proyecto para la sección Demo.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "demo-pvp-connect.png",
+      "source_type": "user_upload",
+      "source_filename": "11(1).png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 1592444,
+      "credit": "Captura proporcionada por el responsable del proyecto para la sección Demo.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "demo-pvp-team.png",
+      "source_type": "user_upload",
+      "source_filename": "12(1).png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 2134788,
+      "credit": "Captura proporcionada por el responsable del proyecto para la sección Demo.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "demo-pvp-battle.png",
+      "source_type": "user_upload",
+      "source_filename": "13(1).png",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "bytes": 3402558,
+      "credit": "Captura proporcionada por el responsable del proyecto para la sección Demo.",
+      "description": "Captura incluida sin modificaciones. Las marcas y personajes visibles pertenecen a sus respectivos titulares."
+    },
+    {
+      "name": "gengar.png",
+      "url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/094.png",
+      "source_page": "https://www.pokemon.com/",
+      "size": [
+        475,
+        475
+      ],
+      "mode": "RGBA",
+      "bytes": 144713,
+      "sha256": "b6549b80537676fcf4a589c8853b38cce42f42b5f707bbe2e63797666175cf06",
+      "credit": "The Pokémon Company International / Nintendo / Creatures Inc. / GAME FREAK inc.",
+      "usage_terms_url": "https://www.pokemon.com/el/informacion-legal/",
+      "license_note": "Ilustración de Gengar de la Pokédex oficial de Pokémon. Archivo PNG original incluido sin modificaciones. Protegido por derechos de autor; no se afirma una licencia abierta."
+    }
+  ],
+  "intended_context": "Sitio de fans informativo no oficial, sin compras ni recopilación de pagos.",
+  "derived_visuals": [
+    {
+      "name": "pc-game-case",
+      "implementation": "HTML y CSS en index.html y styles.css",
+      "source_assets": [
+        "miraidon.png",
+        "logo-violet.webp"
+      ],
+      "description": "Carátula personalizada de fans con distintivo genérico PC GAMES y un icono de monitor vectorial; composición de página, sin alterar los archivos originales."
+    }
+  ],
+  "external_media": [
+    {
+      "type": "youtube_video",
+      "source_type": "user_provided_url",
+      "url": "https://www.youtube.com/watch?v=tIAnTTgj0dI",
+      "embed_url": "https://www.youtube-nocookie.com/embed/tIAnTTgj0dI",
+      "description": "Video integrado al final de Demo mediante el reproductor externo de YouTube; no se incluye una copia local."
+    }
+  ]
+}
