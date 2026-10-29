@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#171029">
+  <meta name="description" content="Descubre Paldea, conoce a Miraidon y elige a tu primer compañero. Una experiencia de fans dedicada al mundo de Pokémon Violet.">
+  <meta property="og:title" content="Pokémon Violet · Una aventura sin límites">
+  <meta property="og:description" content="Un nuevo horizonte. Un compañero legendario. Tu propia aventura en Paldea. Sitio de fans no oficial.">
+  <meta property="og:type" content="website">
+  <title>Pokémon Violet · Una aventura sin límites</title>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="./assets/miraidon.png" as="image">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./translations.js" defer></script>
+  <script src="./script.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+  <svg class="icon-definitions" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></symbol>
+    <symbol id="i-diagonal" viewBox="0 0 24 24"><path d="M6 18 18 6M6 6h12v12"/></symbol>
+    <symbol id="i-star" viewBox="0 0 24 24"><path d="m12 2 2.8 7.2L22 12l-7.2 2.8L12 22l-2.8-7.2L2 12l7.2-2.8Z"/></symbol>
+    <symbol id="i-leaf" viewBox="0 0 24 24"><path d="M20 3c-1 9-3 15-10 15a6 6 0 0 1-6-6c0-7 8-7 16-9Z"/><path d="M3 21 15 9"/></symbol>
+    <symbol id="i-flame" viewBox="0 0 24 24"><path d="M13 2c2 6-2 7 1 11 2-1 3-3 3-5 7 8 3 14-5 14S1 14 7 8c0 4 1 5 2 6-1-5 2-6 4-12Z"/></symbol>
+    <symbol id="i-water" viewBox="0 0 24 24"><path d="M12 2c-3 5-8 9-8 13a8 8 0 0 0 16 0c0-4-5-8-8-13Z"/><path d="M8 15c0 2 1 3 3 3"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="m5 12 4 4L19 6"/></symbol>
+    <symbol id="i-expand" viewBox="0 0 24 24"><path d="M9 4H4v5M15 4h5v5M4 15v5h5M20 15v5h-5"/></symbol>
+    <symbol id="i-bolt" viewBox="0 0 24 24"><path d="m13 2-9 12h7l-1 8 10-13h-8Z"/></symbol>
+  </svg>
+
+  <header class="site-header">
+    <div class="utility-bar"><div class="container utility-inner"><span>UN SITIO HECHO POR FANS</span><div class="utility-controls"><span class="utility-edition">EDICIÓN VIOLET</span><div class="language-switcher" role="group" aria-label="Idioma de la página"><button type="button" class="language-button" data-language="es" lang="es" aria-pressed="true" aria-label="Cambiar a español">Español</button><span aria-hidden="true">/</span><button type="button" class="language-button" data-language="en" lang="en" aria-pressed="false" aria-label="Switch to English">English</button></div></div></div></div>
+    <div class="container navigation">
+      <a href="#inicio" class="brand" aria-label="Pokémon Violet, inicio"><img src="./assets/logo-violet.webp" alt="Pokémon Violet" width="331" height="190"></a>
+      <nav class="main-nav" id="main-nav" aria-label="Navegación principal">
+        <a href="#paldea">El mundo</a><a href="#pokemon">Pokémon</a><a href="#miraidon">Miraidon</a><a href="#galeria">Galería</a><a href="#instalar">Instalar</a><a href="#demo">Demo</a><a href="#eventos">Eventos</a>
+      </nav>
+      <a class="nav-cta" href="#pokemon">Elige a tu compañero <svg class="icon"><use href="#i-diagonal"/></svg></a>
+      <button class="menu-toggle" aria-label="Abrir menú" aria-controls="main-nav" aria-expanded="false"><span></span><span></span></button>
+    </div>
+  </header>
+
+  <main id="contenido">
+    <section class="hero" id="inicio" aria-labelledby="hero-title">
+      <div class="hero-grain" aria-hidden="true"></div>
+      <div class="hero-grid" aria-hidden="true"></div>
+      <div class="container hero-inner">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="eyebrow-line"></span> UN NUEVO HORIZONTE TE ESPERA</p>
+          <h1 id="hero-title">Una aventura<br>sin <em>límites.</em></h1>
+          <p class="hero-description">Un mundo por descubrir. Un compañero legendario.<br class="desktop-break"> Una historia que solo tú puedes escribir.</p>
+          <div class="hero-actions"><a class="button button-gold" href="#paldea">Explora Paldea <svg class="icon"><use href="#i-arrow"/></svg></a><a class="text-link" href="#galeria">Ver la galería <svg class="icon"><use href="#i-diagonal"/></svg></a></div>
+          <div class="hero-platform"><span class="windows-icon" aria-hidden="true"><svg viewBox="0 0 24 24" focusable="false"><path d="M1 3.5 10.5 2.2v9H1zm11-1.6L23 .4v10.8H12zM1 12.7h9.5v9L1 20.3zm11 0h11v10.9L12 22.1z"/></svg></span><span>DISPONIBLE EN<br><strong>Windows 10</strong></span><span class="platform-rule"></span><span class="platform-version">EL FUTURO ES<br><strong>VIOLET.</strong></span></div>
+        </div>
+        <div class="hero-art">
+          <span class="hero-word" aria-hidden="true">VIOLET</span>
+          <div class="orbit orbit-one" aria-hidden="true"></div><div class="orbit orbit-two" aria-hidden="true"></div>
+          <span class="orbit-point orbit-point-one" aria-hidden="true"></span><span class="orbit-point orbit-point-two" aria-hidden="true"></span>
+          <svg class="hero-spark spark-one" aria-hidden="true"><use href="#i-star"/></svg><svg class="hero-spark spark-two" aria-hidden="true"><use href="#i-star"/></svg>
+          <img class="hero-miraidon" src="./assets/miraidon.png" alt="Miraidon, el Pokémon legendario de Violet, con destellos eléctricos azules y violetas" width="2856" height="3810" fetchpriority="high">
+          <a class="legend-label" href="#miraidon"><span class="legend-dot"></span><span>CONOCE A TU LEYENDA<strong>Miraidon</strong></span><svg class="icon"><use href="#i-diagonal"/></svg></a>
+        </div>
+        <a class="scroll-cue" href="#paldea"><span>LA AVENTURA COMIENZA AQUÍ</span><span class="scroll-cue-arrow">↓</span></a>
+      </div>
+    </section>
+
+    <div class="chapter-strip" aria-label="Descubre la aventura"><div class="container chapter-inner"><span><b>01</b> UN MUNDO ABIERTO</span><svg class="icon"><use href="#i-star"/></svg><span><b>02</b> NUEVOS COMPAÑEROS</span><svg class="icon"><use href="#i-star"/></svg><span><b>03</b> TU PROPIA HISTORIA</span></div></div>
+
+    <section class="world-section section-space" id="paldea" aria-labelledby="paldea-title">
+      <div class="container">
+        <div class="section-heading world-heading"><div><p class="eyebrow"><span class="eyebrow-line"></span> 01 / BIENVENIDO A PALDEA</p><h2 id="paldea-title">El mundo es enorme.<br><em>Hazlo tuyo.</em></h2></div><p>De las montañas a la costa, cada camino es una invitación a perderte un poco… y descubrir mucho.</p></div>
+        <div class="world-stage">
+          <img id="world-image" class="world-image" src="./assets/paldea.jpg" alt="Vista panorámica de Paldea con montañas, praderas y una gran ciudad al fondo" width="1440" height="810" loading="lazy">
+          <div class="world-shade"></div><span class="image-corner top-left" aria-hidden="true"></span><span class="image-corner bottom-right" aria-hidden="true"></span>
+          <div class="world-caption" id="world-panel" role="tabpanel" aria-labelledby="world-tab-0"><span class="image-kicker" id="world-kicker">UN HORIZONTE DE POSIBILIDADES</span><h3 id="world-title">Aquí, la curiosidad<br>marca el rumbo.</h3><p id="world-description">Explora a tu ritmo y encuentra Pokémon en los lugares más inesperados.</p></div>
+          <span class="image-counter" aria-hidden="true"><span id="world-count">01</span> <i>/</i> 03</span>
+        </div>
+        <div class="world-tabs" role="tablist" aria-label="Descubrir Paldea"><button id="world-tab-0" role="tab" aria-selected="true" aria-controls="world-panel" data-world="0"><span>01</span> Un mundo abierto <svg class="icon"><use href="#i-arrow"/></svg></button><button id="world-tab-1" role="tab" aria-selected="false" aria-controls="world-panel" tabindex="-1" data-world="1"><span>02</span> Aventura sobre ruedas <svg class="icon"><use href="#i-arrow"/></svg></button><button id="world-tab-2" role="tab" aria-selected="false" aria-controls="world-panel" tabindex="-1" data-world="2"><span>03</span> Un brillo extraordinario <svg class="icon"><use href="#i-arrow"/></svg></button></div>
+      </div>
+    </section>
+
+    <section class="partner-section section-space" id="pokemon" aria-labelledby="partner-title">
+      <div class="container">
+        <div class="center-heading"><p class="eyebrow">02 / EL PRIMER PASO, JUNTOS</p><h2 id="partner-title">Toda gran aventura<br>empieza con <em>una elección.</em></h2><p>Tres compañeros. Un vínculo para toda la aventura.<br>¿Con quién darás tu primer paso en Paldea?</p></div>
+        <div class="partner-grid">
+          <article class="partner-card grass" data-partner-card="sprigatito"><div class="partner-topline"><span class="partner-number">N.º 0906</span><span class="type-label"><svg class="icon"><use href="#i-leaf"/></svg> Planta</span></div><div class="partner-art"><span class="partner-ring" aria-hidden="true"></span><img src="./assets/sprigatito.webp" alt="Sprigatito, un pequeño Pokémon gato verde" width="448" height="448" loading="lazy"></div><div class="partner-copy"><span class="partner-species">POKÉMON GATO PLANTA</span><h3>Sprigatito</h3><p>Un pequeño compañero con mucha personalidad y un encanto que florece a tu lado.</p><button class="partner-select" data-partner="sprigatito" aria-pressed="false"><span>Elegir a Sprigatito</span><svg class="icon"><use href="#i-arrow"/></svg></button></div></article>
+          <article class="partner-card fire" data-partner-card="fuecoco"><div class="partner-topline"><span class="partner-number">N.º 0909</span><span class="type-label"><svg class="icon"><use href="#i-flame"/></svg> Fuego</span></div><div class="partner-art"><span class="partner-ring" aria-hidden="true"></span><img src="./assets/fuecoco.webp" alt="Fuecoco, un alegre Pokémon cocodrilo rojo" width="448" height="448" loading="lazy"></div><div class="partner-copy"><span class="partner-species">POKÉMON FUEGODRILO</span><h3>Fuecoco</h3><p>Su forma relajada de ver el mundo y su chispa harán que cada día sea una aventura.</p><button class="partner-select" data-partner="fuecoco" aria-pressed="false"><span>Elegir a Fuecoco</span><svg class="icon"><use href="#i-arrow"/></svg></button></div></article>
+          <article class="partner-card water" data-partner-card="quaxly"><div class="partner-topline"><span class="partner-number">N.º 0912</span><span class="type-label"><svg class="icon"><use href="#i-water"/></svg> Agua</span></div><div class="partner-art"><span class="partner-ring" aria-hidden="true"></span><img src="./assets/quaxly.webp" alt="Quaxly, un Pokémon patito blanco con un copete azul" width="448" height="448" loading="lazy"></div><div class="partner-copy"><span class="partner-species">POKÉMON PATITO</span><h3>Quaxly</h3><p>Estilo propio, pasos firmes y un compañero dispuesto a seguirte hasta el horizonte.</p><button class="partner-select" data-partner="quaxly" aria-pressed="false"><span>Elegir a Quaxly</span><svg class="icon"><use href="#i-arrow"/></svg></button></div></article>
+        </div>
+        <div class="partner-status" role="status" aria-live="polite"><svg class="icon"><use href="#i-star"/></svg><p id="partner-status-text">Elige a tu favorito. Toda buena historia empieza con un gran compañero.</p><button id="reset-partner" hidden>Cambiar elección</button></div>
+      </div>
+    </section>
+
+    <section class="legend-section" id="miraidon" aria-labelledby="legend-title"><div class="container legend-inner">
+      <div class="legend-visual"><div class="legend-halo" aria-hidden="true"></div><span class="legend-outline" aria-hidden="true">1008</span><img src="./assets/miraidon.png" alt="Ilustración completa de Miraidon" width="2856" height="3810" loading="lazy"><span class="legend-art-caption">MIRAIDON <i>—</i> <span class="legend-species-caption">POKÉMON PARADOJA</span></span></div>
+      <div class="legend-copy"><p class="eyebrow"><span class="eyebrow-line"></span> 03 / UNA LEYENDA A TU LADO</p><h2 id="legend-title">El futuro tiene<br><em>un nuevo rostro.</em></h2><p class="legend-name">MIRAIDON <svg class="icon"><use href="#i-bolt"/></svg></p><p class="section-description">Misterioso, poderoso e imposible de olvidar. Conoce al Pokémon legendario de Pokémon Violet y descubre Paldea con un compañero extraordinario.</p><div class="legend-types"><span><svg class="icon"><use href="#i-bolt"/></svg> ELÉCTRICO</span><span class="dragon-type">✧ DRAGÓN</span></div><dl class="legend-facts"><div><dt>CATEGORÍA</dt><dd>Pokémon Paradoja</dd></div><div><dt>HABILIDAD</dt><dd>Motor Hadrónico</dd></div></dl><a class="text-link gold-link" href="https://scarletviolet.pokemon.com/es-mx/pokemon/miraidon/" target="_blank" rel="noopener noreferrer">Más sobre Miraidon <svg class="icon"><use href="#i-diagonal"/></svg><span class="sr-only"> (sitio oficial, abre una nueva pestaña)</span></a></div>
+    </div></section>
+
+    <section class="journey-section section-space" aria-labelledby="journey-title"><div class="container"><div class="section-heading"><div><p class="eyebrow"><span class="eyebrow-line"></span> SIGUE TU INSTINTO</p><h2 id="journey-title">Una región.<br><em>Tres formas de vivirla.</em></h2></div><p>No hay una única manera de encontrar tu tesoro. Decide qué desafío quieres perseguir primero.</p></div><div class="journey-grid"><article><span class="journey-number">01</span><div><h3>Persigue la victoria</h3><p>Pon a prueba a tu equipo frente a los Líderes de Gimnasio y avanza hacia el rango de Campeón.</p><span class="journey-tag">GIMNASIOS Y COMBATES</span></div></article><article><span class="journey-number">02</span><div><h3>Descubre lo extraordinario</h3><p>Acompaña a Damián en la búsqueda de especias ocultas y enfréntate a los imponentes Pokémon dominantes.</p><span class="journey-tag">EXPLORACIÓN Y MISTERIO</span></div></article><article><span class="journey-number">03</span><div><h3>Deja tu propia huella</h3><p>Desafía a los integrantes del Team Star, entra en sus bases y descubre la historia que los une.</p><span class="journey-tag">TEAM STAR Y NUEVAS AMISTADES</span></div></article></div></div></section>
+
+    <section class="gallery-section section-space" id="galeria" aria-labelledby="gallery-title"><div class="container"><div class="section-heading"><div><p class="eyebrow"><span class="eyebrow-line"></span> POSTALES DE UNA NUEVA AVENTURA</p><h2 id="gallery-title">Un vistazo a<br><em>lo que te espera.</em></h2></div><p>Hay lugares que se quedan contigo.<br>Paldea está llena de ellos.</p></div><div class="gallery-grid"><button class="gallery-item gallery-main" data-gallery="0" aria-label="Ampliar imagen: un mundo por descubrir"><img src="./assets/paldea.jpg" alt="Las verdes colinas y las montañas de Paldea" width="1440" height="810" loading="lazy"><span class="gallery-caption"><span><small>EXPLORA</small>Un mundo por descubrir</span><span class="expand-circle"><svg class="icon"><use href="#i-expand"/></svg></span></span></button><button class="gallery-item" data-gallery="1" aria-label="Ampliar imagen: tu compañero de viaje"><img src="./assets/miraidon-screenshot.jpg" alt="Miraidon en una captura oficial de Pokémon Violet" width="1920" height="1080" loading="lazy"><span class="gallery-caption"><span><small>CONECTA</small>Tu compañero de viaje</span><span class="expand-circle"><svg class="icon"><use href="#i-expand"/></svg></span></span></button><button class="gallery-item" data-gallery="2" aria-label="Ampliar imagen: el poder de la teracristalización"><img src="./assets/terastal-art.jpg" alt="Ilustración oficial de un Eevee teracristalizado junto a una Entrenadora" width="4093" height="2893" loading="lazy"><span class="gallery-caption"><span><small>ASÓMBRATE</small>Un brillo diferente</span><span class="expand-circle"><svg class="icon"><use href="#i-expand"/></svg></span></span></button></div></div></section>
+
+    <section class="install-section" id="instalar" aria-labelledby="install-title">
+      <div class="container">
+        <div class="install-panel">
+          <div class="install-copy">
+            <p class="eyebrow"><span class="eyebrow-line" aria-hidden="true"></span> POKÉMON VIOLET PC</p>
+            <h2 id="install-title">Instalar</h2>
+            <p id="install-description">Debes disponer de un volcado (dump) de tu propia copia de Pokémon Violet. También necesitas la actualización y el DLC con los identificadores indicados a continuación.</p>
+            <div class="install-requirements">
+              <h3 id="install-requirements-title">Requisitos de instalación</h3>
+              <table class="install-requirements-table" aria-labelledby="install-requirements-title">
+                <thead><tr><th id="install-content-heading" scope="col">Contenido</th><th scope="col">Title ID</th></tr></thead>
+                <tbody>
+                  <tr><th id="install-base-label" scope="row">Juego base</th><td><code>01008F6008C5E000</code></td></tr>
+                  <tr><th id="install-update-label" scope="row">Actualización</th><td><code>01008F6008C5E800</code></td></tr>
+                  <tr><th scope="row">DLC</th><td><code>01008F6008C5F001</code></td></tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="install-platform"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><rect x="2.5" y="3.5" width="19" height="13" rx="1.5"/><path d="M8 21h8M12 16.5V21"/></svg><span>Windows 10</span><span class="install-platform-rule" aria-hidden="true"></span><span>PC GAMES</span></div>
+          </div>
+          <div class="install-visual" aria-hidden="true">
+            <span class="install-orbit"></span>
+            <svg viewBox="0 0 160 160" fill="none"><rect x="20" y="35" width="120" height="78" rx="5" stroke="currentColor" stroke-width="2"/><path d="M20 98h120M80 113v19M59 134h42" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M80 53v27m-12-12 12 12 12-12" stroke="#e1c384" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="m131 15 2.5 6.5L140 24l-6.5 2.5L131 33l-2.5-6.5L122 24l6.5-2.5Z" stroke="#e1c384" stroke-width="1.2"/></svg>
+          </div>
+        </div>
+        <div class="install-guide" aria-labelledby="install-guide-title">
+          <h3 id="install-guide-title">Instalación paso a paso</h3>
+          <ol class="install-steps" role="list">
+            <li class="install-step" id="install-step-1">
+              <div class="install-step-copy">
+                <p class="install-step-kicker" id="install-step-1-number">PASO 1</p>
+                <h4 id="install-step-1-title">Extrae ExeFS y RomFS</h4>
+                <p class="install-step-description" id="install-step-1-description">Abre Ryujinx, Yuzu u otro emulador compatible. Localiza tu propia copia de Pokémon Violet y extrae los datos de <strong>ExeFS</strong> y <strong>RomFS</strong>.</p>
+              </div>
+              <figure class="install-step-media">
+                <a class="install-screenshot" id="install-screenshot-1" href="./assets/install-extract-exefs-romfs.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura del paso 1: extraer ExeFS y RomFS (abre una nueva pestaña)">
+                  <img src="./assets/install-extract-exefs-romfs.png" alt="Menú de extracción de datos del emulador con las opciones ExeFS y RomFS" width="1283" height="725" loading="lazy" decoding="async">
+                  <span class="install-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                </a>
+                <figcaption id="install-step-1-caption">Menú «Extraer Datos» con las opciones ExeFS y RomFS.</figcaption>
+              </figure>
+            </li>
+            <li class="install-step" id="install-step-2">
+              <div class="install-step-copy">
+                <p class="install-step-kicker" id="install-step-2-number">PASO 2</p>
+                <h4 id="install-step-2-title">Descarga y extrae el release</h4>
+                <p class="install-step-description" id="install-step-2-description">Descarga el paquete de PokémonViolet desde el release v1.0.1 en GitHub y extrae su contenido en una carpeta de tu PC.</p>
+                <a class="button button-gold install-release-link" href="https://github.com/3rikdani3l/PokemonViolet/releases/tag/v1.0.1" target="_blank" rel="noopener noreferrer" aria-label="Descargar PokémonViolet v1.0.1 desde GitHub (abre una nueva pestaña)"><span id="install-release-label">Descargar v1.0.1</span><svg class="icon" aria-hidden="true"><use href="#i-diagonal"/></svg></a>
+              </div>
+              <figure class="install-step-media">
+                <a class="install-screenshot" id="install-screenshot-2" href="./assets/install-extracted-release.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura del paso 2: carpeta del release extraído (abre una nueva pestaña)">
+                  <img src="./assets/install-extracted-release.png" alt="Carpeta de PokémonViolet extraída, con PokemonViolet.exe y los archivos del programa" width="949" height="608" loading="lazy" decoding="async">
+                  <span class="install-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                </a>
+                <figcaption id="install-step-2-caption">Ejemplo de la carpeta del release una vez extraído.</figcaption>
+              </figure>
+            </li>
+            <li class="install-step" id="install-step-3">
+              <div class="install-step-copy">
+                <p class="install-step-kicker" id="install-step-3-number">PASO 3</p>
+                <h4 id="install-step-3-title">Inicia la instalación</h4>
+                <p class="install-step-description" id="install-step-3-description">Ejecuta <code>PokemonViolet.exe</code> y selecciona la opción <strong>Instalar</strong> en el menú principal.</p>
+              </div>
+              <figure class="install-step-media">
+                <a class="install-screenshot" id="install-screenshot-3" href="./assets/install-launcher-menu.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura del paso 3: opción Instalar del menú principal (abre una nueva pestaña)">
+                  <img src="./assets/install-launcher-menu.png" alt="Menú principal de PokémonViolet con la opción Instalar seleccionada" width="1920" height="1080" loading="lazy" decoding="async">
+                  <span class="install-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                </a>
+                <figcaption id="install-step-3-caption">Menú principal con la opción «Instalar» seleccionada.</figcaption>
+              </figure>
+            </li>
+            <li class="install-step" id="install-step-4">
+              <div class="install-step-copy">
+                <p class="install-step-kicker" id="install-step-4-number">PASO 4</p>
+                <h4 id="install-step-4-title">Selecciona ExeFS y RomFS</h4>
+                <p class="install-step-description" id="install-step-4-description">Selecciona las carpetas <strong>ExeFS</strong> y <strong>RomFS</strong> que extrajiste de tu propia copia del juego. Espera a que termine la copia de los archivos.</p>
+              </div>
+              <figure class="install-step-media">
+                <a class="install-screenshot" id="install-screenshot-4" href="./assets/install-select-folders.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura del paso 4: selección de las carpetas ExeFS y RomFS (abre una nueva pestaña)">
+                  <img src="./assets/install-select-folders.png" alt="Instalador de PokémonViolet con las carpetas ExeFS y RomFS y el progreso de copia de archivos" width="1920" height="1080" loading="lazy" decoding="async">
+                  <span class="install-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                </a>
+                <figcaption id="install-step-4-caption">Selección de las carpetas ExeFS y RomFS y progreso de la instalación.</figcaption>
+              </figure>
+            </li>
+            <li class="install-step" id="install-step-5">
+              <div class="install-step-copy">
+                <p class="install-step-kicker" id="install-step-5-number">PASO 5</p>
+                <h4 id="install-step-5-title">La opción Jugar está lista</h4>
+                <p class="install-step-description" id="install-step-5-description">Al completar la instalación, se habilitará la opción <strong>Jugar</strong> en el menú principal. Selecciónala para iniciar el juego.</p>
+              </div>
+              <figure class="install-step-media">
+                <a class="install-screenshot" id="install-screenshot-5" href="./assets/install-play-ready.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura del paso 5: opción Jugar habilitada (abre una nueva pestaña)">
+                  <img src="./assets/install-play-ready.png" alt="Menú principal de PokémonViolet con la opción Jugar habilitada y seleccionada" width="1920" height="1080" loading="lazy" decoding="async">
+                  <span class="install-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                </a>
+                <figcaption id="install-step-5-caption">La opción «Jugar» aparece al terminar la instalación.</figcaption>
+              </figure>
+            </li>
+            <li class="install-step" id="install-step-6">
+              <div class="install-step-copy">
+                <p class="install-step-kicker" id="install-step-6-number">PASO 6</p>
+                <h4 id="install-step-6-title">Ajusta las opciones gráficas</h4>
+                <p class="install-step-description" id="install-step-6-description">Entra en <strong>Gráficos</strong>, revisa las opciones y ajústalas a tu gusto y a tu computadora. Al terminar, selecciona <strong>Guardar y volver</strong>.</p>
+              </div>
+              <figure class="install-step-media">
+                <a class="install-screenshot" id="install-screenshot-6" href="./assets/install-graphics-settings.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura del paso 6: opciones gráficas del launcher (abre una nueva pestaña)">
+                  <img src="./assets/install-graphics-settings.png" alt="Menú Gráficos del launcher con opciones de resolución, fotogramas por segundo, filtros y pantalla" width="1920" height="1080" loading="lazy" decoding="async">
+                  <span class="install-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                </a>
+                <figcaption id="install-step-6-caption">Opciones gráficas del launcher y botón «Guardar y volver».</figcaption>
+              </figure>
+            </li>
+            <li class="install-step" id="install-step-7">
+              <div class="install-step-copy">
+                <p class="install-step-kicker" id="install-step-7-number">PASO 7</p>
+                <h4 id="install-step-7-title">Revisa los ajustes del launcher</h4>
+                <p class="install-step-description" id="install-step-7-description">Abre <strong>Ajustes</strong> para revisar estas opciones:</p>
+                <dl class="install-settings">
+                  <div>
+                    <dt id="install-setting-language-label">Idioma del launcher</dt>
+                    <dd id="install-setting-language-description">Cambia el idioma de la interfaz del launcher.</dd>
+                  </div>
+                  <div>
+                    <dt id="install-setting-local-label">Online local</dt>
+                    <dd id="install-setting-local-description">Permite realizar combates y teraincursiones en cooperativa desde la misma PC, con dos instancias, o desde varias PC conectadas a la misma red. Selecciona el tipo de conexión correspondiente y activa esta opción en cada instancia.</dd>
+                  </div>
+                  <div>
+                    <dt id="install-setting-events-label">Sincronizar eventos</dt>
+                    <dd id="install-setting-events-description">Permite actualizar los eventos de teraincursiones de <strong>7 estrellas</strong>. La compatibilidad con otras teraincursiones de eventos y regalos misteriosos está prevista para más adelante.</dd>
+                  </div>
+                </dl>
+                <p class="install-step-note" id="install-step-7-note">Selecciona <strong>Guardar y volver</strong> para conservar los cambios.</p>
+              </div>
+              <figure class="install-step-media">
+                <a class="install-screenshot" id="install-screenshot-7" href="./assets/install-launcher-settings.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura del paso 7: ajustes de idioma, red local y eventos (abre una nueva pestaña)">
+                  <img src="./assets/install-launcher-settings.png" alt="Menú Ajustes con Idioma del launcher, Online local, Sincronizar eventos y Tipo de conexión" width="1920" height="1080" loading="lazy" decoding="async">
+                  <span class="install-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                </a>
+                <figcaption id="install-step-7-caption">Ajustes de idioma, juego en red local y sincronización de eventos.</figcaption>
+              </figure>
+            </li>
+            <li class="install-step install-step--gallery" id="install-step-8">
+              <div class="install-step-copy">
+                <p class="install-step-kicker" id="install-step-8-number">PASO 8</p>
+                <h4 id="install-step-8-title">Explora Extras: objetos y Pokédex</h4>
+                <p class="install-step-description" id="install-step-8-description">En <strong>Extras → Objetos</strong> puedes agregar objetos al inventario o reducir su cantidad. La pestaña <strong>Pokédex</strong> permite consultar los Pokémon capturados y los que todavía te faltan.</p>
+                <p class="install-step-note" id="install-step-8-note"><strong>Requiere una primera partida guardada.</strong> Para modificar el inventario, primero inicia el juego y guarda tu progreso. Después podrás volver a Extras y editar los objetos.</p>
+              </div>
+              <div class="install-step-gallery">
+                <figure class="install-step-media">
+                  <a class="install-screenshot" id="install-screenshot-8-1" href="./assets/install-extras-inventory.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura: paso 8, lista de objetos del inventario (abre una nueva pestaña)">
+                    <img src="./assets/install-extras-inventory.png" alt="Pestaña Objetos de Extras con la lista del inventario y las cantidades de cada objeto" width="1920" height="1080" loading="lazy" decoding="async">
+                    <span class="install-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                  </a>
+                  <figcaption id="install-step-8-1-caption">1. Consulta los objetos del inventario en Extras.</figcaption>
+                </figure>
+                <figure class="install-step-media">
+                  <a class="install-screenshot" id="install-screenshot-8-2" href="./assets/install-extras-quantity.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura: paso 8, edición de la cantidad de objetos (abre una nueva pestaña)">
+                    <img src="./assets/install-extras-quantity.png" alt="Ventana Cantidad de objetos con controles para aumentar o reducir la cantidad y guardar" width="1920" height="1080" loading="lazy" decoding="async">
+                    <span class="install-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                  </a>
+                  <figcaption id="install-step-8-2-caption">2. Aumenta o reduce la cantidad del objeto y guarda el cambio.</figcaption>
+                </figure>
+                <figure class="install-step-media">
+                  <a class="install-screenshot" id="install-screenshot-8-3" href="./assets/install-extras-pokedex.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura: paso 8, consulta de la Pokédex (abre una nueva pestaña)">
+                    <img src="./assets/install-extras-pokedex.png" alt="Pestaña Pokédex de Extras en modo lectura con el listado de Pokémon registrados" width="1920" height="1080" loading="lazy" decoding="async">
+                    <span class="install-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                  </a>
+                  <figcaption id="install-step-8-3-caption">3. Consulta los Pokémon capturados y los que faltan en la Pokédex.</figcaption>
+                </figure>
+              </div>
+            </li>
+            <li class="install-step" id="install-step-9">
+              <div class="install-step-copy">
+                <p class="install-step-kicker" id="install-step-9-number">PASO 9</p>
+                <h4 id="install-step-9-title">Espera la primera compilación</h4>
+                <p class="install-step-description" id="install-step-9-description">La primera ejecución puede tardar aproximadamente de <strong>10 a 20 minutos</strong>, según tu computadora. Espera a que termine la compilación; el juego se abrirá al finalizar.</p>
+                <p class="install-step-note" id="install-step-9-note">Al cambiar las opciones gráficas, se realiza una nueva compilación. El resultado queda guardado en tu PC y se reutiliza en los siguientes inicios con la misma configuración, sin tener que recompilar de nuevo.</p>
+              </div>
+              <figure class="install-step-media">
+                <a class="install-screenshot" id="install-screenshot-9" href="./assets/install-first-compilation.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura del paso 9: preparación y compilación del juego (abre una nueva pestaña)">
+                  <img src="./assets/install-first-compilation.png" alt="Pantalla Preparando el juego que indica que el juego se abrirá al terminar la compilación" width="1920" height="1080" loading="lazy" decoding="async">
+                  <span class="install-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                </a>
+                <figcaption id="install-step-9-caption">Pantalla «Preparando el juego…». Mantén el launcher abierto hasta que termine.</figcaption>
+              </figure>
+            </li>
+            <li class="install-step install-step--gallery" id="install-step-10">
+              <div class="install-step-copy">
+                <p class="install-step-kicker" id="install-step-10-number">PASO 10</p>
+                <h4 id="install-step-10-title">Elige el idioma y crea tu personaje</h4>
+                <p class="install-step-description" id="install-step-10-description">Cuando se abra el juego, selecciona el <strong>idioma del juego</strong> y personaliza la apariencia de tu personaje. Revisa tu selección y confirma para comenzar tu aventura.</p>
+                <p class="install-step-note" id="install-step-10-note">En esta versión puedes volver a cambiar el idioma desde <strong>Opciones → Idioma</strong> dentro del juego. El cambio se aplica al reiniciar.</p>
+              </div>
+              <div class="install-step-gallery">
+                <figure class="install-step-media">
+                  <a class="install-screenshot" id="install-screenshot-10-1" href="./assets/install-game-language.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura del paso 10: selección del idioma del juego (abre una nueva pestaña)">
+                    <img src="./assets/install-game-language.png" alt="Pantalla inicial del juego para elegir el idioma, con English y Español entre las opciones" width="1920" height="1080" loading="lazy" decoding="async">
+                    <span class="install-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                  </a>
+                  <figcaption id="install-step-10-1-caption">1. Selecciona el idioma del juego.</figcaption>
+                </figure>
+                <figure class="install-step-media">
+                  <a class="install-screenshot" id="install-screenshot-10-2" href="./assets/install-character-appearance.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura del paso 10: selección de apariencia del personaje (abre una nueva pestaña)">
+                    <img src="./assets/install-character-appearance.png" alt="Pantalla de selección de apariencia del personaje con ocho fotografías de Entrenadores" width="1920" height="1080" loading="lazy" decoding="async">
+                    <span class="install-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                  </a>
+                  <figcaption id="install-step-10-2-caption">2. Elige la apariencia de tu personaje.</figcaption>
+                </figure>
+                <figure class="install-step-media">
+                  <a class="install-screenshot" id="install-screenshot-10-3" href="./assets/install-character-confirmation.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura del paso 10: confirmación del personaje (abre una nueva pestaña)">
+                    <img src="./assets/install-character-confirmation.png" alt="Pantalla de confirmación del personaje con idioma, nombre y opciones para cambiar peinado o aspecto" width="1920" height="1080" loading="lazy" decoding="async">
+                    <span class="install-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                  </a>
+                  <figcaption id="install-step-10-3-caption">3. Revisa los detalles y confirma con «¡Todo listo!».</figcaption>
+                </figure>
+              </div>
+            </li>
+          </ol>
+        </div>
+        <aside class="install-notice" aria-labelledby="install-notice-title">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v6m0 3h.01"/></svg>
+          <div><h3 id="install-notice-title">Muy importante</h3><p class="distribution-notice-copy">Esta página y el repositorio no almacenan ni distribuyen ninguna copia del juego.</p></div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="demo-section section-space" id="demo" aria-labelledby="demo-title">
+      <div class="container">
+        <div class="section-heading">
+          <div><p class="eyebrow"><span class="eyebrow-line" aria-hidden="true"></span><span id="demo-eyebrow">EL PORT EN ACCIÓN</span></p><h2 id="demo-title">Demo</h2></div>
+          <p id="demo-description">Conoce las funciones incorporadas al juego. Amplía cada captura para ver los detalles.</p>
+        </div>
+        <div class="demo-grid">
+          <article class="demo-card" aria-labelledby="demo-title-exit-title">
+            <div class="demo-card-copy">
+              <span class="demo-card-number" aria-hidden="true">01</span>
+              <h3 id="demo-title-exit-title">Salir desde la pantalla de título</h3>
+              <p id="demo-title-exit-description">La pantalla de inicio incorpora el botón <strong>Salir</strong> para cerrar el juego.</p>
+            </div>
+            <figure class="demo-media">
+              <a class="demo-screenshot" id="demo-screenshot-title-exit" href="./assets/demo-title-exit.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura: botón Salir de la pantalla de título (abre una nueva pestaña)">
+                <img src="./assets/demo-title-exit.png" alt="Pantalla de título de Pokémon Púrpura con los botones Pulsa A y Salir B" width="1920" height="1080" loading="lazy" decoding="async">
+                <span class="demo-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+              </a>
+              <figcaption id="demo-caption-title-exit">Nuevo botón «Salir» en la pantalla de título.</figcaption>
+            </figure>
+          </article>
+          <article class="demo-card" aria-labelledby="demo-menu-exit-title">
+            <div class="demo-card-copy">
+              <span class="demo-card-number" aria-hidden="true">02</span>
+              <h3 id="demo-menu-exit-title">Cerrar el juego desde el menú</h3>
+              <p id="demo-menu-exit-description">Durante tu partida, abre el menú principal y selecciona el nuevo botón <strong>Salir del juego</strong>.</p>
+            </div>
+            <figure class="demo-media">
+              <a class="demo-screenshot" id="demo-screenshot-menu-exit" href="./assets/demo-menu-exit.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura: opción Salir del juego dentro de la partida (abre una nueva pestaña)">
+                <img src="./assets/demo-menu-exit.png" alt="Menú principal dentro del juego con la opción Salir del juego seleccionada" width="1920" height="1080" loading="lazy" decoding="async">
+                <span class="demo-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+              </a>
+              <figcaption id="demo-caption-menu-exit">La opción «Salir del juego» está disponible en el menú de la partida.</figcaption>
+            </figure>
+          </article>
+          <article class="demo-card" aria-labelledby="demo-language-title">
+            <div class="demo-card-copy">
+              <span class="demo-card-number" aria-hidden="true">03</span>
+              <h3 id="demo-language-title">Cambiar el idioma del juego</h3>
+              <p id="demo-language-description">En <strong>Opciones → Idioma</strong> puedes volver a elegir el idioma del juego. El cambio se aplica al reiniciar.</p>
+            </div>
+            <figure class="demo-media">
+              <a class="demo-screenshot" id="demo-screenshot-language" href="./assets/demo-game-language.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura: opción para cambiar el idioma del juego (abre una nueva pestaña)">
+                <img src="./assets/demo-game-language.png" alt="Pantalla Opciones del juego con Idioma seleccionado y el aviso de aplicar al reiniciar" width="1920" height="1080" loading="lazy" decoding="async">
+                <span class="demo-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+              </a>
+              <figcaption id="demo-caption-language">Selecciona el idioma en Opciones y reinicia para aplicarlo.</figcaption>
+            </figure>
+          </article>
+          <article class="demo-card demo-card--wide" aria-labelledby="demo-trades-title">
+            <div class="demo-card-copy">
+              <span class="demo-card-number" aria-hidden="true">04</span>
+              <h3 id="demo-trades-title">Intercambios en local o en red</h3>
+              <p id="demo-trades-description">Intercambia Pokémon entre dos instancias en la misma PC o entre equipos conectados a la misma red local.</p>
+            </div>
+            <div class="demo-media-grid">
+              <figure class="demo-media">
+                <a class="demo-screenshot" id="demo-screenshot-trade-connect" href="./assets/demo-trade-connect.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura: conexión de las partidas para intercambiar (abre una nueva pestaña)">
+                  <img src="./assets/demo-trade-connect.png" alt="Dos ventanas de PokémonViolet conectadas para realizar un intercambio con el mismo código" width="1920" height="1080" loading="lazy" decoding="async">
+                  <span class="demo-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                </a>
+                <figcaption id="demo-caption-trade-connect">1. Conecta las partidas para realizar el intercambio.</figcaption>
+              </figure>
+              <figure class="demo-media">
+                <a class="demo-screenshot" id="demo-screenshot-trade-confirm" href="./assets/demo-trade-confirm.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura: confirmación del intercambio de Pokémon (abre una nueva pestaña)">
+                  <img src="./assets/demo-trade-confirm.png" alt="Confirmación de un intercambio de Sprigatito por Fuecoco en dos ventanas del juego" width="1920" height="1080" loading="lazy" decoding="async">
+                  <span class="demo-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                </a>
+                <figcaption id="demo-caption-trade-confirm">2. Selecciona los Pokémon y confirma el intercambio.</figcaption>
+              </figure>
+              <figure class="demo-media">
+                <a class="demo-screenshot" id="demo-screenshot-trade-animation" href="./assets/demo-trade-animation.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura: animación del intercambio de Pokémon (abre una nueva pestaña)">
+                  <img src="./assets/demo-trade-animation.png" alt="Animación de intercambio de Pokémon en las dos partidas conectadas" width="1920" height="1080" loading="lazy" decoding="async">
+                  <span class="demo-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                </a>
+                <figcaption id="demo-caption-trade-animation">3. El intercambio se muestra en ambas partidas.</figcaption>
+              </figure>
+            </div>
+          </article>
+          <article class="demo-card demo-card--wide" aria-labelledby="demo-raids-title">
+            <div class="demo-card-copy">
+              <span class="demo-card-number" aria-hidden="true">05</span>
+              <h3 id="demo-raids-title">Teraincursiones en grupo o individuales</h3>
+              <p id="demo-raids-description">Participa en teraincursiones de forma individual o en cooperativa. Para jugar en grupo, conecta las partidas desde la misma PC o mediante la red local.</p>
+            </div>
+            <div class="demo-media-grid demo-media-grid--pairs">
+              <figure class="demo-media">
+                <a class="demo-screenshot" id="demo-screenshot-raid-create" href="./assets/demo-raid-create.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura: creación de una sala de teraincursión (abre una nueva pestaña)">
+                  <img src="./assets/demo-raid-create.png" alt="Sala de teraincursión de siete estrellas y Poképortal en dos ventanas del juego" width="1920" height="1080" loading="lazy" decoding="async">
+                  <span class="demo-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                </a>
+                <figcaption id="demo-caption-raid-create">1. Abre la teraincursión y prepara la sala.</figcaption>
+              </figure>
+              <figure class="demo-media">
+                <a class="demo-screenshot" id="demo-screenshot-raid-code" href="./assets/demo-raid-code.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura: código para unirse a la teraincursión (abre una nueva pestaña)">
+                  <img src="./assets/demo-raid-code.png" alt="Entrada del código de la sala para unirse a una teraincursión desde otra partida" width="1920" height="1080" loading="lazy" decoding="async">
+                  <span class="demo-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                </a>
+                <figcaption id="demo-caption-raid-code">2. Usa el código para unirte desde la otra partida.</figcaption>
+              </figure>
+              <figure class="demo-media">
+                <a class="demo-screenshot" id="demo-screenshot-raid-group" href="./assets/demo-raid-group.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura: grupo preparado para la teraincursión (abre una nueva pestaña)">
+                  <img src="./assets/demo-raid-group.png" alt="Dos partidas dentro de la misma sala de teraincursión con sus Pokémon seleccionados" width="1920" height="1080" loading="lazy" decoding="async">
+                  <span class="demo-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                </a>
+                <figcaption id="demo-caption-raid-group">3. Reúne al grupo y elige tu Pokémon.</figcaption>
+              </figure>
+              <figure class="demo-media">
+                <a class="demo-screenshot" id="demo-screenshot-raid-battle" href="./assets/demo-raid-battle.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura: combate de teraincursión en cooperativa (abre una nueva pestaña)">
+                  <img src="./assets/demo-raid-battle.png" alt="Combate cooperativo contra Charizard el Imbatible mostrado en dos ventanas del juego" width="1920" height="1080" loading="lazy" decoding="async">
+                  <span class="demo-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                </a>
+                <figcaption id="demo-caption-raid-battle">4. Participa en el combate cooperativo.</figcaption>
+              </figure>
+            </div>
+          </article>
+          <article class="demo-card demo-card--wide" aria-labelledby="demo-pvp-title">
+            <div class="demo-card-copy">
+              <span class="demo-card-number" aria-hidden="true">06</span>
+              <h3 id="demo-pvp-title">PvP en local o en red</h3>
+              <p id="demo-pvp-description">Enfrenta tus equipos en combates entre jugadores, desde dos instancias en la misma PC o desde equipos conectados a la misma red local.</p>
+            </div>
+            <div class="demo-media-grid">
+              <figure class="demo-media">
+                <a class="demo-screenshot" id="demo-screenshot-pvp-connect" href="./assets/demo-pvp-connect.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura: conexión entre jugadores para PvP (abre una nueva pestaña)">
+                  <img src="./assets/demo-pvp-connect.png" alt="Dos ventanas con un contrincante encontrado para un combate individual en conexión local" width="1920" height="1080" loading="lazy" decoding="async">
+                  <span class="demo-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                </a>
+                <figcaption id="demo-caption-pvp-connect">1. Encuentra al contrincante con el código de conexión.</figcaption>
+              </figure>
+              <figure class="demo-media">
+                <a class="demo-screenshot" id="demo-screenshot-pvp-team" href="./assets/demo-pvp-team.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura: selección de equipos para PvP (abre una nueva pestaña)">
+                  <img src="./assets/demo-pvp-team.png" alt="Pantallas de selección de equipo de ambos jugadores antes del combate" width="1920" height="1080" loading="lazy" decoding="async">
+                  <span class="demo-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                </a>
+                <figcaption id="demo-caption-pvp-team">2. Selecciona los Pokémon de tu equipo.</figcaption>
+              </figure>
+              <figure class="demo-media">
+                <a class="demo-screenshot" id="demo-screenshot-pvp-battle" href="./assets/demo-pvp-battle.png" target="_blank" rel="noopener noreferrer" aria-label="Ampliar captura: combate PvP entre las partidas conectadas (abre una nueva pestaña)">
+                  <img src="./assets/demo-pvp-battle.png" alt="Combate PvP entre Skeledirge y Garganacl visto desde las dos partidas conectadas" width="1920" height="1080" loading="lazy" decoding="async">
+                  <span class="demo-zoom-label" aria-hidden="true"><svg class="icon"><use href="#i-expand"/></svg><span>Ampliar captura</span></span>
+                </a>
+                <figcaption id="demo-caption-pvp-battle">3. Disputa el combate desde ambas partidas conectadas.</figcaption>
+              </figure>
+            </div>
+          </article>
+        </div>
+        <article class="demo-video" id="demo-video" aria-labelledby="demo-video-title">
+          <div class="demo-video-heading">
+            <div>
+              <h3 id="demo-video-title">Demo en video</h3>
+              <p id="demo-video-description">Reproduce el video de demostración o ábrelo en YouTube.</p>
+            </div>
+            <a class="button button-gold demo-video-link" href="https://www.youtube.com/watch?v=tIAnTTgj0dI" target="_blank" rel="noopener noreferrer" aria-label="Ver la demo en YouTube (abre una nueva pestaña)"><span id="demo-video-link-label">Ver en YouTube</span><svg class="icon" aria-hidden="true"><use href="#i-diagonal"/></svg></a>
+          </div>
+          <div class="demo-video-frame">
+            <iframe id="demo-video-player" src="https://www.youtube-nocookie.com/embed/tIAnTTgj0dI" title="Video de demostración de Pokémon Violet PC" width="1280" height="720" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="events-section section-space" id="eventos" aria-labelledby="events-title">
+      <div class="container">
+        <div class="center-heading events-heading">
+          <p class="eyebrow" id="events-kicker">UN NUEVO RETO TE ESPERA</p>
+          <h2 id="events-title">Eventos</h2>
+          <p id="events-intro">Prepara a tu equipo y descubre el evento disponible.</p>
+        </div>
+        <div class="events-grid">
+          <article class="event-card" id="event-gengar" data-event-card aria-labelledby="gengar-event-title">
+            <div class="event-art">
+              <span class="event-art-orbit" aria-hidden="true"></span>
+              <img data-event-image src="./assets/gengar.png" alt="Gengar, el Pokémon protagonista del evento" width="475" height="475" loading="lazy">
+              <span class="event-stars" aria-hidden="true">★ ★ ★ ★ ★ ★ ★</span>
+              <span class="event-status" id="gengar-event-status" data-event-status>Ya disponible</span>
+            </div>
+            <div class="event-copy">
+              <span class="event-category" id="gengar-event-category" data-event-category>Teraincursiones</span>
+              <p class="event-period" id="gengar-event-period" data-event-period>Del 28 de octubre al 30 de noviembre</p>
+              <h3 id="gengar-event-title" data-event-title>¡Aparece Gengar en teraincursiones de 7 estrellas!</h3>
+              <p class="event-description" id="gengar-event-description" data-event-description>Es posible que este Pokémon vuelva a aparecer en futuros eventos o se pueda obtener mediante otros métodos.</p>
+              <button class="button event-details" type="button" data-event-details aria-haspopup="dialog" aria-controls="event-dialog"><span id="gengar-event-details-label">Ver detalles</span><svg class="icon" aria-hidden="true"><use href="#i-arrow"/></svg></button>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="final-section" aria-labelledby="final-title"><div class="container final-inner"><div class="game-cover"><span aria-hidden="true"></span><div class="pc-game-case" role="img" aria-label="Carátula personalizada de Pokémon Violet con distintivo de PC Games"><span class="pc-cover-frame" aria-hidden="true"></span><span class="pc-cover-orbit" aria-hidden="true"></span><img class="pc-cover-miraidon" src="./assets/miraidon.png" alt="" width="2856" height="3810" loading="lazy"><img class="pc-cover-title" src="./assets/logo-violet.webp" alt="" width="331" height="190" loading="lazy"><span class="pc-game-badge" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><rect x="2.5" y="3.5" width="19" height="13" rx="1.5"/><path d="M8 21h8M12 16.5V21"/></svg><span><strong>PC</strong><small>GAMES</small></span></span></div></div><div class="final-copy"><p class="eyebrow">TU HISTORIA ESTÁ POR COMENZAR</p><h2 id="final-title">Nos vemos<br><em>en Paldea.</em></h2><p>Prepara tu equipo. El siguiente capítulo lo escribes tú.</p><a class="button button-gold" href="https://scarletviolet.pokemon.com/es-mx/buy/" target="_blank" rel="noopener noreferrer">Descubre el juego <svg class="icon"><use href="#i-diagonal"/></svg><span class="sr-only"> (sitio oficial, abre una nueva pestaña)</span></a></div><svg class="final-star" aria-hidden="true"><use href="#i-star"/></svg></div></section>
+  </main>
+
+  <footer class="site-footer"><div class="container"><div class="footer-top"><a class="brand footer-brand" href="#inicio" aria-label="Pokémon Violet, volver al inicio"><img src="./assets/logo-violet.webp" alt="Pokémon Violet" width="331" height="190" loading="lazy"></a><p>Una aventura sin límites.<br>Una comunidad con la misma pasión.</p><a class="back-top" href="#inicio">Volver al inicio <span>↑</span></a></div><div class="footer-bottom"><p>Sitio de fans no oficial, sin afiliación con The Pokémon Company o Nintendo.<br>Pokémon e imágenes © The Pokémon Company, Nintendo, Creatures Inc. y GAME FREAK inc.</p><div><button class="footer-link" id="credits-button">Créditos</button><a href="https://scarletviolet.pokemon.com/es-mx/" target="_blank" rel="noopener noreferrer">Web oficial <svg class="icon"><use href="#i-diagonal"/></svg></a><button class="motion-toggle" aria-pressed="false">Reducir movimiento</button></div></div><p id="footer-distribution-note" class="distribution-notice-copy">Esta página y el repositorio no almacenan ni distribuyen ninguna copia del juego.</p></div></footer>
+
+  <dialog class="lightbox" id="gallery-dialog" aria-labelledby="lightbox-title"><button class="dialog-close" aria-label="Cerrar galería"><svg class="icon"><use href="#i-close"/></svg></button><div class="lightbox-media"><img id="lightbox-image" src="./assets/paldea.jpg" alt="Vista panorámica de Paldea"><button class="gallery-prev gallery-control" aria-label="Imagen anterior">←</button><button class="gallery-next gallery-control" aria-label="Imagen siguiente">→</button></div><div class="lightbox-caption"><div><span class="eyebrow" id="lightbox-category">EXPLORA PALDEA</span><h2 id="lightbox-title">Un mundo por descubrir</h2></div><span id="lightbox-counter" aria-live="polite">1 / 3</span></div><p class="lightbox-hint">Usa las flechas para explorar · Esc para cerrar</p></dialog>
+  <dialog class="credits-dialog" id="credits-dialog" aria-labelledby="credits-title"><button class="dialog-close" aria-label="Cerrar créditos"><svg class="icon"><use href="#i-close"/></svg></button><p class="eyebrow">HECHO CON PASIÓN POR POKÉMON</p><h2 id="credits-title">Sobre este proyecto</h2><p>Esta es una página de fans dedicada a Pokémon Violet. El diseño y la presentación son una interpretación independiente inspirada en la web del juego.</p><p>Las ilustraciones, capturas, logotipos y personajes pertenecen a sus respectivos titulares. No existe afiliación ni respaldo de The Pokémon Company, Nintendo, Creatures Inc. o GAME FREAK inc.</p><div class="credits-links"><a href="https://scarletviolet.pokemon.com/es-mx/" target="_blank" rel="noopener noreferrer">Sitio oficial de Pokémon <svg class="icon"><use href="#i-diagonal"/></svg></a><a href="https://press.pokemon.com/" target="_blank" rel="noopener noreferrer">The Pokémon Company · Press Site <svg class="icon"><use href="#i-diagonal"/></svg></a></div><p class="credits-note">Tu idioma, tu elección de compañero y la preferencia de movimiento se guardan únicamente en este navegador. El video de Demo utiliza el reproductor integrado de YouTube.</p></dialog>
+  <dialog class="event-dialog" id="event-dialog" aria-labelledby="event-dialog-title" aria-describedby="event-dialog-period event-dialog-description">
+    <button class="dialog-close" type="button" aria-label="Cerrar evento"><svg class="icon" aria-hidden="true"><use href="#i-close"/></svg></button>
+    <div class="event-dialog-layout">
+      <div class="event-art event-dialog-art">
+        <span class="event-art-orbit" aria-hidden="true"></span>
+        <img id="event-dialog-image" alt="" width="475" height="475">
+      </div>
+      <div class="event-dialog-copy">
+        <p class="event-dialog-status" id="event-dialog-status"></p>
+        <span class="event-category" id="event-dialog-category"></span>
+        <p class="event-period" id="event-dialog-period"></p>
+        <h2 id="event-dialog-title"></h2>
+        <p class="event-description" id="event-dialog-description"></p>
+        <button class="button button-gold" id="event-dialog-dismiss" type="button">Entendido</button>
+      </div>
+    </div>
+  </dialog>
+  <p id="language-status" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></p>
+</body>
+</html>
