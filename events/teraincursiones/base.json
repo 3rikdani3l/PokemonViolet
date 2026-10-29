@@ -9,8 +9,18 @@
       "evento": true,
       "teratipo": 15,
       "prioridad": 0,
+      "fecha_inicio": "28/10/2027",
+      "fecha_fin": "28/10/2027"
+    },
+    {
+      "nombre": "Gengar imbatible",
+      "encuentro_id": 2026102801,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 7,
+      "prioridad": 0,
       "fecha_inicio": "28/10/2026",
-      "fecha_fin": "28/10/2026"
+      "fecha_fin": "30/11/2026"
     },
     {
       "encuentro_id": 1001,
