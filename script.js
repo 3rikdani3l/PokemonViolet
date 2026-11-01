@@ -236,10 +236,19 @@
   // The translated card is the single source of the event's content.
   const renderEventDetails = (card) => {
     if (!card) return;
+    eventDialog.dataset.eventTheme = card.dataset.eventTheme || 'ghost';
     ['status', 'category', 'period', 'title', 'description'].forEach((field) => {
-      document.getElementById(`event-dialog-${field}`).textContent =
-        card.querySelector(`[data-event-${field}]`).textContent;
+      const target = document.getElementById(`event-dialog-${field}`);
+      const value = card.querySelector(`[data-event-${field}]`)?.textContent.trim() || '';
+      target.textContent = value;
+      target.hidden = !value;
     });
+    const descriptionIds = ['period', 'description']
+      .map((field) => document.getElementById(`event-dialog-${field}`))
+      .filter((element) => !element.hidden)
+      .map((element) => element.id);
+    if (descriptionIds.length) eventDialog.setAttribute('aria-describedby', descriptionIds.join(' '));
+    else eventDialog.removeAttribute('aria-describedby');
     const sourceImage = card.querySelector('[data-event-image]');
     const dialogImage = document.getElementById('event-dialog-image');
     dialogImage.src = sourceImage.src;

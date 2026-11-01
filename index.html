@@ -497,10 +497,25 @@
         <div class="center-heading events-heading">
           <p class="eyebrow" id="events-kicker">UN NUEVO RETO TE ESPERA</p>
           <h2 id="events-title">Eventos</h2>
-          <p id="events-intro">Prepara a tu equipo y descubre el evento disponible.</p>
+          <p id="events-intro">Prepara a tu equipo y descubre los eventos.</p>
         </div>
         <div class="events-grid">
-          <article class="event-card" id="event-gengar" data-event-card aria-labelledby="gengar-event-title">
+          <article class="event-card" id="event-charizard" data-event-card data-event-theme="fire" aria-labelledby="charizard-event-title">
+            <div class="event-art">
+              <span class="event-art-orbit" aria-hidden="true"></span>
+              <img data-event-image src="./assets/charizard.png" alt="Charizard, el Pokémon protagonista del nuevo evento" width="475" height="475" loading="lazy">
+              <span class="event-stars" aria-hidden="true">★ ★ ★ ★ ★ ★ ★</span>
+              <span class="event-status" id="charizard-event-status" data-event-status>Nuevo evento</span>
+            </div>
+            <div class="event-copy">
+              <span class="event-category" id="charizard-event-category" data-event-category>Teraincursiones</span>
+              <p class="event-period" id="charizard-event-period" data-event-period>Del 01 de noviembre al 31 de diciembre</p>
+              <h3 id="charizard-event-title" data-event-title>¡Aparece Charizard en teraincursiones de 7 estrellas!</h3>
+              <p class="event-description" id="charizard-event-description" data-event-description>Prepara a tu equipo para enfrentarte a Charizard en este nuevo desafío. Es posible que este Pokémon vuelva a aparecer en futuros eventos o se pueda obtener mediante otros métodos.</p>
+              <button class="button event-details" type="button" data-event-details aria-haspopup="dialog" aria-controls="event-dialog"><span id="charizard-event-details-label">Ver detalles</span><svg class="icon" aria-hidden="true"><use href="#i-arrow"/></svg></button>
+            </div>
+          </article>
+          <article class="event-card" id="event-gengar" data-event-card data-event-theme="ghost" aria-labelledby="gengar-event-title">
             <div class="event-art">
               <span class="event-art-orbit" aria-hidden="true"></span>
               <img data-event-image src="./assets/gengar.png" alt="Gengar, el Pokémon protagonista del evento" width="475" height="475" loading="lazy">
@@ -511,7 +526,7 @@
               <span class="event-category" id="gengar-event-category" data-event-category>Teraincursiones</span>
               <p class="event-period" id="gengar-event-period" data-event-period>Del 28 de octubre al 30 de noviembre</p>
               <h3 id="gengar-event-title" data-event-title>¡Aparece Gengar en teraincursiones de 7 estrellas!</h3>
-              <p class="event-description" id="gengar-event-description" data-event-description>Es posible que este Pokémon vuelva a aparecer en futuros eventos o se pueda obtener mediante otros métodos.</p>
+              <p class="event-description" id="gengar-event-description" data-event-description>Prepara a tu equipo para enfrentarte a Gengar en este nuevo desafío. Es posible que este Pokémon vuelva a aparecer en futuros eventos o se pueda obtener mediante otros métodos.</p>
               <button class="button event-details" type="button" data-event-details aria-haspopup="dialog" aria-controls="event-dialog"><span id="gengar-event-details-label">Ver detalles</span><svg class="icon" aria-hidden="true"><use href="#i-arrow"/></svg></button>
             </div>
           </article>
