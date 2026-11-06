@@ -3,14 +3,324 @@
   "nombre": "Teraincursiones base",
   "incursiones": [
     {
+      "nombre": "Cinderace imbatible",
+      "encuentro_id": 2022123001,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 1,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Greninja imbatible",
+      "encuentro_id": 2023012701,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 3,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Pikachu imbatible",
+      "encuentro_id": 2023022401,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 10,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Decidueye imbatible",
+      "encuentro_id": 2023031701,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 2,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Samurott imbatible",
+      "encuentro_id": 2023033101,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 6,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Typhlosion imbatible",
+      "encuentro_id": 2023041401,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 7,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Inteleon imbatible",
+      "encuentro_id": 2023042801,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 14,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Chesnaught imbatible",
+      "encuentro_id": 2023051201,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 5,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Delphox imbatible",
+      "encuentro_id": 2023070701,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 17,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Rillaboom imbatible",
+      "encuentro_id": 2023072801,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 0,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Decidueye de Hisui imbatible",
+      "encuentro_id": 2023100601,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 11,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Typhlosion de Hisui imbatible",
+      "encuentro_id": 2023110301,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 9,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Eevee imbatible",
+      "encuentro_id": 2023111701,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 0,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Samurott de Hisui imbatible",
+      "encuentro_id": 2023112401,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 10,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Blaziken imbatible",
+      "encuentro_id": 2024011201,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 2,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Empoleon imbatible",
+      "encuentro_id": 2024020201,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 14,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Venusaur imbatible",
+      "encuentro_id": 2024022801,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 4,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Blastoise imbatible",
+      "encuentro_id": 2024030601,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 8,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Meganium imbatible",
+      "encuentro_id": 2024040501,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 13,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Primarina imbatible",
+      "encuentro_id": 2024051001,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 17,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Swampert imbatible",
+      "encuentro_id": 2024053101,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 3,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Emboar imbatible",
+      "encuentro_id": 2024061401,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 12,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Sceptile imbatible",
+      "encuentro_id": 2024062801,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 15,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Incineroar imbatible",
+      "encuentro_id": 2024090601,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 16,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Serperior imbatible",
+      "encuentro_id": 2024092001,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 11,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Infernape imbatible",
+      "encuentro_id": 2024100401,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 5,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Feraligatr imbatible",
+      "encuentro_id": 2024110101,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 16,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Torterra imbatible",
+      "encuentro_id": 2024111501,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 4,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Meowscarada imbatible",
+      "encuentro_id": 2025022801,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 11,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Skeledirge imbatible",
+      "encuentro_id": 2025030701,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 9,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
+      "nombre": "Quaquaval imbatible",
+      "encuentro_id": 2025031401,
+      "estrellas": 7,
+      "evento": true,
+      "teratipo": 10,
+      "prioridad": 0,
+      "fecha_inicio": "04/11/2050",
+      "fecha_fin": "04/11/2050"
+    },
+    {
       "nombre": "Charizard imbatible",
       "encuentro_id": 2022120201,
       "estrellas": 7,
       "evento": true,
       "teratipo": 15,
       "prioridad": 0,
-      "fecha_inicio": "31/10/2027",
-      "fecha_fin": "31/12/2027"
+      "fecha_inicio": "30/10/2026",
+      "fecha_fin": "31/12/2026"
     },
     {
       "nombre": "Gengar imbatible",
@@ -28,7 +338,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1002,
@@ -36,7 +346,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1003,
@@ -44,7 +354,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1004,
@@ -52,7 +362,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1005,
@@ -60,7 +370,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1006,
@@ -68,7 +378,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1007,
@@ -76,7 +386,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1008,
@@ -84,7 +394,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1010,
@@ -92,7 +402,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1011,
@@ -100,7 +410,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1012,
@@ -108,7 +418,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1013,
@@ -116,7 +426,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1014,
@@ -124,7 +434,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1015,
@@ -132,7 +442,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1016,
@@ -140,7 +450,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1017,
@@ -148,7 +458,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1018,
@@ -156,7 +466,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1019,
@@ -164,7 +474,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1020,
@@ -172,7 +482,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1021,
@@ -180,7 +490,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1022,
@@ -188,7 +498,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1023,
@@ -196,7 +506,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1024,
@@ -204,7 +514,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1025,
@@ -212,7 +522,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1026,
@@ -220,7 +530,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1027,
@@ -228,7 +538,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1028,
@@ -236,7 +546,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1029,
@@ -244,7 +554,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1031,
@@ -252,7 +562,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1032,
@@ -260,7 +570,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1033,
@@ -268,7 +578,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1034,
@@ -276,7 +586,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1035,
@@ -284,7 +594,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1036,
@@ -292,7 +602,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1037,
@@ -300,7 +610,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1038,
@@ -308,7 +618,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1039,
@@ -316,7 +626,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1040,
@@ -324,7 +634,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1041,
@@ -332,7 +642,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1042,
@@ -340,7 +650,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1043,
@@ -348,7 +658,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1044,
@@ -356,7 +666,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1045,
@@ -364,7 +674,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1046,
@@ -372,7 +682,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1047,
@@ -380,7 +690,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1048,
@@ -388,7 +698,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1049,
@@ -396,7 +706,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1050,
@@ -404,7 +714,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1051,
@@ -412,7 +722,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1052,
@@ -420,7 +730,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1053,
@@ -428,7 +738,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1054,
@@ -436,7 +746,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1055,
@@ -444,7 +754,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1056,
@@ -452,7 +762,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1057,
@@ -460,7 +770,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1058,
@@ -468,7 +778,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1059,
@@ -476,7 +786,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 1060,
@@ -484,7 +794,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2001,
@@ -492,7 +802,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2002,
@@ -500,7 +810,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2003,
@@ -508,7 +818,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2004,
@@ -516,7 +826,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2005,
@@ -524,7 +834,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2006,
@@ -532,7 +842,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2007,
@@ -540,7 +850,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2008,
@@ -548,7 +858,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2009,
@@ -556,7 +866,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2011,
@@ -564,7 +874,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2012,
@@ -572,7 +882,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2013,
@@ -580,7 +890,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2014,
@@ -588,7 +898,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2015,
@@ -596,7 +906,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2016,
@@ -604,7 +914,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2017,
@@ -612,7 +922,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2018,
@@ -620,7 +930,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2019,
@@ -628,7 +938,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2020,
@@ -636,7 +946,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2021,
@@ -644,7 +954,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2022,
@@ -652,7 +962,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2023,
@@ -660,7 +970,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2024,
@@ -668,7 +978,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2025,
@@ -676,7 +986,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2026,
@@ -684,7 +994,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2027,
@@ -692,7 +1002,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2029,
@@ -700,7 +1010,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2031,
@@ -708,7 +1018,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2032,
@@ -716,7 +1026,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2033,
@@ -724,7 +1034,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2034,
@@ -732,7 +1042,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2035,
@@ -740,7 +1050,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2036,
@@ -748,7 +1058,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2037,
@@ -756,7 +1066,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2038,
@@ -764,7 +1074,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2040,
@@ -772,7 +1082,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2041,
@@ -780,7 +1090,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2042,
@@ -788,7 +1098,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2043,
@@ -796,7 +1106,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2044,
@@ -804,7 +1114,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2045,
@@ -812,7 +1122,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2046,
@@ -820,7 +1130,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2047,
@@ -828,7 +1138,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2048,
@@ -836,7 +1146,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2050,
@@ -844,7 +1154,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2051,
@@ -852,7 +1162,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2052,
@@ -860,7 +1170,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2053,
@@ -868,7 +1178,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2054,
@@ -876,7 +1186,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2055,
@@ -884,7 +1194,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2056,
@@ -892,7 +1202,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2057,
@@ -900,7 +1210,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 2058,
@@ -908,7 +1218,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3001,
@@ -916,7 +1226,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3002,
@@ -924,7 +1234,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3003,
@@ -932,7 +1242,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3004,
@@ -940,7 +1250,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3005,
@@ -948,7 +1258,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3006,
@@ -956,7 +1266,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3007,
@@ -964,7 +1274,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3008,
@@ -972,7 +1282,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3009,
@@ -980,7 +1290,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3010,
@@ -988,7 +1298,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3011,
@@ -996,7 +1306,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3012,
@@ -1004,7 +1314,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3013,
@@ -1012,7 +1322,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3014,
@@ -1020,7 +1330,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3015,
@@ -1028,7 +1338,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3016,
@@ -1036,7 +1346,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3017,
@@ -1044,7 +1354,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3018,
@@ -1052,7 +1362,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3020,
@@ -1060,7 +1370,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3021,
@@ -1068,7 +1378,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3022,
@@ -1076,7 +1386,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3023,
@@ -1084,7 +1394,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3024,
@@ -1092,7 +1402,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3026,
@@ -1100,7 +1410,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3027,
@@ -1108,7 +1418,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3029,
@@ -1116,7 +1426,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3030,
@@ -1124,7 +1434,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3031,
@@ -1132,7 +1442,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3032,
@@ -1140,7 +1450,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3033,
@@ -1148,7 +1458,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3034,
@@ -1156,7 +1466,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3035,
@@ -1164,7 +1474,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3036,
@@ -1172,7 +1482,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3037,
@@ -1180,7 +1490,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3038,
@@ -1188,7 +1498,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3039,
@@ -1196,7 +1506,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3040,
@@ -1204,7 +1514,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3041,
@@ -1212,7 +1522,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3043,
@@ -1220,7 +1530,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3044,
@@ -1228,7 +1538,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3045,
@@ -1236,7 +1546,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3046,
@@ -1244,7 +1554,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3047,
@@ -1252,7 +1562,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3048,
@@ -1260,7 +1570,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3049,
@@ -1268,7 +1578,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3050,
@@ -1276,7 +1586,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3051,
@@ -1284,7 +1594,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3052,
@@ -1292,7 +1602,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3053,
@@ -1300,7 +1610,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3055,
@@ -1308,7 +1618,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3056,
@@ -1316,7 +1626,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3057,
@@ -1324,7 +1634,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3058,
@@ -1332,7 +1642,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3059,
@@ -1340,7 +1650,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3060,
@@ -1348,7 +1658,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3061,
@@ -1356,7 +1666,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3062,
@@ -1364,7 +1674,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3063,
@@ -1372,7 +1682,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3064,
@@ -1380,7 +1690,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3065,
@@ -1388,7 +1698,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3066,
@@ -1396,7 +1706,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3067,
@@ -1404,7 +1714,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3068,
@@ -1412,7 +1722,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3069,
@@ -1420,7 +1730,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3070,
@@ -1428,7 +1738,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3071,
@@ -1436,7 +1746,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3072,
@@ -1444,7 +1754,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3073,
@@ -1452,7 +1762,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3074,
@@ -1460,7 +1770,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3075,
@@ -1468,7 +1778,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3076,
@@ -1476,7 +1786,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3078,
@@ -1484,7 +1794,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3079,
@@ -1492,7 +1802,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 3080,
@@ -1500,7 +1810,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5001,
@@ -1508,7 +1818,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5002,
@@ -1516,7 +1826,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5003,
@@ -1524,7 +1834,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5004,
@@ -1532,7 +1842,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5005,
@@ -1540,7 +1850,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5006,
@@ -1548,7 +1858,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5007,
@@ -1556,7 +1866,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5008,
@@ -1564,7 +1874,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5009,
@@ -1572,7 +1882,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5010,
@@ -1580,7 +1890,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5011,
@@ -1588,7 +1898,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5012,
@@ -1596,7 +1906,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5013,
@@ -1604,7 +1914,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5014,
@@ -1612,7 +1922,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5015,
@@ -1620,7 +1930,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5017,
@@ -1628,7 +1938,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5018,
@@ -1636,7 +1946,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5019,
@@ -1644,7 +1954,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5020,
@@ -1652,7 +1962,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5021,
@@ -1660,7 +1970,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5022,
@@ -1668,7 +1978,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5023,
@@ -1676,7 +1986,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5024,
@@ -1684,7 +1994,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5025,
@@ -1692,7 +2002,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5026,
@@ -1700,7 +2010,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5027,
@@ -1708,7 +2018,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5029,
@@ -1716,7 +2026,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5030,
@@ -1724,7 +2034,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5031,
@@ -1732,7 +2042,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5032,
@@ -1740,7 +2050,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5033,
@@ -1748,7 +2058,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5034,
@@ -1756,7 +2066,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5035,
@@ -1764,7 +2074,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5036,
@@ -1772,7 +2082,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5037,
@@ -1780,7 +2090,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5038,
@@ -1788,7 +2098,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5039,
@@ -1796,7 +2106,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5040,
@@ -1804,7 +2114,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5041,
@@ -1812,7 +2122,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5042,
@@ -1820,7 +2130,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5043,
@@ -1828,7 +2138,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5044,
@@ -1836,7 +2146,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5045,
@@ -1844,7 +2154,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5046,
@@ -1852,7 +2162,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5048,
@@ -1860,7 +2170,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5049,
@@ -1868,7 +2178,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5050,
@@ -1876,7 +2186,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5052,
@@ -1884,7 +2194,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5053,
@@ -1892,7 +2202,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5054,
@@ -1900,7 +2210,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5055,
@@ -1908,7 +2218,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5056,
@@ -1916,7 +2226,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5057,
@@ -1924,7 +2234,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5058,
@@ -1932,7 +2242,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5060,
@@ -1940,7 +2250,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5061,
@@ -1948,7 +2258,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5062,
@@ -1956,7 +2266,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5063,
@@ -1964,7 +2274,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5064,
@@ -1972,7 +2282,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5065,
@@ -1980,7 +2290,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5066,
@@ -1988,7 +2298,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5067,
@@ -1996,7 +2306,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5068,
@@ -2004,7 +2314,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5069,
@@ -2012,7 +2322,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5070,
@@ -2020,7 +2330,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5071,
@@ -2028,7 +2338,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5072,
@@ -2036,7 +2346,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5073,
@@ -2044,7 +2354,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5074,
@@ -2052,7 +2362,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5075,
@@ -2060,7 +2370,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5076,
@@ -2068,7 +2378,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5077,
@@ -2076,7 +2386,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5078,
@@ -2084,7 +2394,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5079,
@@ -2092,7 +2402,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5080,
@@ -2100,7 +2410,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5081,
@@ -2108,7 +2418,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5082,
@@ -2116,7 +2426,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5083,
@@ -2124,7 +2434,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5085,
@@ -2132,7 +2442,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5086,
@@ -2140,7 +2450,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5087,
@@ -2148,7 +2458,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5089,
@@ -2156,7 +2466,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5090,
@@ -2164,7 +2474,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5091,
@@ -2172,7 +2482,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5092,
@@ -2180,7 +2490,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5093,
@@ -2188,7 +2498,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5094,
@@ -2196,7 +2506,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5096,
@@ -2204,7 +2514,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5097,
@@ -2212,7 +2522,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5098,
@@ -2220,7 +2530,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     },
     {
       "encuentro_id": 5099,
@@ -2228,7 +2538,7 @@
       "teratipo": -1,
       "prioridad": 1,
       "fecha_inicio": "01/01/2000",
-      "fecha_fin": "01/01/3000"
+      "fecha_fin": "04/11/2050"
     }
   ]
 }
